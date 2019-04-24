@@ -135,3 +135,49 @@ nano floodstatus.py
 git commit -m floodstatus.py
 python floodstatus.py
 nano floodstatus.py
+search git
+which git
+sudo apt-get update
+sudo apt-get install git
+which git
+git init
+git add .
+git commit -m "initial commit"
+git config --global user.name "Your Name"
+git config --global user.name "thiraboss"
+git remote add origin <https://github.com/thiraboss/flood_detector>
+git remote add origin https://github.com/thiraboss/flood_detector
+git push -u origin master
+git add .
+
+git push -f origin master
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py
+nano floodstatus.py
+python floodstatus.py
+nano floodstatus.py
+python floodstatus.py
+nano floodstatus.py
+python floodstatus.py
+nano floodstatus.py
+python floodstatus.py
+nano floodstatus.py
+python floodstatus.py
+nano floodstatus.py
+python floodstatus.py
+nano floodstatus.py
+python floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
