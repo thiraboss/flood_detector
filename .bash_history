@@ -181,3 +181,65 @@ nano floodstatus.py
 python floodstatus.py 
 nano floodstatus.py
 python floodstatus.py 
+nano floodstatus.py
+git add .
+git push origin your-branch
+git push origin flooddetector
+git push origin https://github.com/thiraboss/flood_detector
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+pip install -U flask-cors
+nano floodstatus.py
+sudo pip install -U flask-cors
+nano floodstatus.py
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+python floodstatus.py 
+help
+create
+nano floodstatus.py
+python floodstatus.py 
+nano floodstatus.py
+python floodstatus.py 
+python floodstatus.py
+sudo pip install mysql
+sudo pip install mysql-connector
+python floodstatus.py
+nano floodstatus.py
+pip install --upgrade google-api-python-client
+python floodstatus.py
+pip install --upgrade google-api-python-client
+nano floodstatus.py
+python floodstatus.py 
