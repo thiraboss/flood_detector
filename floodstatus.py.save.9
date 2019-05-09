@@ -44,17 +44,17 @@ def waterlevel(x):
 	 percentage = (x/20)*100      
 	 return str(percentage)
 
-@app.route('/api/v1/flood_detector/sensor_id/<id>', methods=['GET','POST'])
-def flood_status(id=None):
-	url = "http://35.222.51.59:8080/sensors/sensor_id/" + id
+@app.route('/api/v1/flood_detector/', methods=['GET','POST'])
+def flood_status(id=none):
+	url = "http://35.222.51.59:8080/sensors/sensor_id/"+id
 	response = requests.get(str(url))
         flood_status = response.json()
 	data = []
         for i in range(len(flood_status)):
-		coming_data = {'name':"flood_detector",'status':waterlevel_status(int(flood_status[i]["data"])), 'percentage':waterlevel(int(flood_status[i]["data"])), 'coordinate':(flood_status[i]["coordinate"])}
+		coming_data = {'name':"flood_detector",'status':waterlevel_status(int(flood_status[i]["sensor_data"])), 'percentage':waterlevel(int(flood_status[i]["sensor_data"])), 'province':(flood_status[i]["district"])}
                 print(data)
 		data.append(coming_data)
-		print(waterlevel_status(int(flood_status[i]["data"])))
+		print(waterlevel_status(int(flood_status[i]["sensor_data"])))
 	return json.dumps(data)
 
 if __name__ == '__main__':
